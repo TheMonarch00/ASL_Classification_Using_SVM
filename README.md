@@ -1,24 +1,7 @@
 # ASL_Classification_Using_SVM
 Classifies the American Sign Language alphabets using support vector machines
 Sign-Language Recognition using Support Vector Machines 
-
  
-
-Maitree Maheshwaree, Pavan Kumar Yadav Dukka 
-
-International Institute of Information Technology, Bhubaneswar, India 
-
-------------------------------------------------------------------------------------------------------------------- 
-
-Abstract: 
-
-Sign-Language is the most important mode of communication for people with hearing and speaking deficiency. It is the only mode of communication trough which they can interact with each other and with others. As a literate and well abled, it is our responsibility to make this process more comfortable for them. It is also true that we can’t expect everyone to learn the sign-language. As a tech student, we can use machines to do that for us. Machine Learning has made this possible through various algorithms. In this paper, we have trained a Machine Learning model to recognize and classify the alphabets of American Sign Language (ASL), a widely used sign-language globally using Support Vector Machines (SVM). This model takes an image as an input and predicts the alphabet in the image.  
-
----------------------------------------------------------------------------------------------------- 
-
- Keywords: American Sign Language, ASL, Support Vector Machine, SVM, Machine Learning, Sign-language. 
-
----------------------------------------------------------------------------------------------------- 
 
 I. Introduction: 
 
